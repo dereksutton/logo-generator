@@ -1,0 +1,27 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "GT Coding Bootcamp | Module 10 Object-Oriented Programming | SVG Logo Generator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dereksutton/logo-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dereksutton/logo-generator/issues"
+  },
+  "homepage": "https://github.com/dereksutton/logo-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "jest": "^29.5.0"
+  }
+}
