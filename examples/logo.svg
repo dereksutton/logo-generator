@@ -1,0 +1,8 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="300">
+        <circle cx="100" cy="100" r="90" fill="undefined" />
+        <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="White" font-size="48" font-family="Arial, sans-serif">
+          DMS
+        </text>
+        </svg>
+      
