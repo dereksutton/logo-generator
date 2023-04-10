@@ -17,7 +17,7 @@ This is an object-oriented SVG logo generator, built in Node.js. The app allows 
 ![alt-text](N/A)
 
 ## Project Walkthrough Video Link
-https://drive.google.com/file/d/1a9tAMNalBmhB1XZCVMEhRd4PAiUI_G5L/view
+https://drive.google.com/file/d/1DryO2i1LX_kSFwltiqzuqUdUR1x77oQy/view
 
 ## Installation
 npm install inquirer@8.2.4 jest
